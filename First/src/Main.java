@@ -7,7 +7,7 @@ public class Main {
 		b= 2;
 		c= a/b;
 		System.out.println(c);
-
+		
 	}
 
 }
